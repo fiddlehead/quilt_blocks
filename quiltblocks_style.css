@@ -1,0 +1,216 @@
+/* colour scheme
+mint green = #cfeedc
+deep purple = #512563 used for headings
+lightest grey = #f5f5f5
+light grey = #e5e5e5
+dark grey = #c9c9c9
+*/
+
+body {
+  font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url(/images/lightpaperfibers.png) repeat center center fixed;
+} 
+
+h2, h3, p, a {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+  color: #512563;
+  font-size: 4em;
+  text-align: center;
+}
+
+h2, h3 {
+  color: #512563;
+  text-align: center;
+  font-size: 3em;
+}
+
+p{
+  font-size: 1.5em;
+  line-height: 30px;
+  margin-right: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* HEADER */
+.header {
+  padding-bottom: 20px;
+  padding-top: 30px;
+  background-color: #a3b3b0;
+  background-image: url("/images/connected.png");
+}
+
+/* PATTERN CHOICES */
+.patternchoices {
+  width: 100%;
+  
+  background-color: rgba(177, 194, 190, .4); 
+  padding: 20px 10px 0 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.patternchoices h2,
+.patternchoices h3 {
+  text-align: center;
+  color: #512563;
+}
+
+.patternchoices ul. {
+  list-style-type: none;
+  margin-top: 10px;
+  margin-left: -50px;
+  margin-right: -50px;
+}
+
+.patternchoices li {
+  display: inline-block;
+}
+
+.patternchoices img {
+  margin-right: 22px;
+  margin-left: 22px;
+  border: 1.5px solid #000;
+  background: white;
+}
+
+.sewingicons {
+  margin-top: -10px;
+  padding-top: 20px;
+  background-color: rgba(177, 194, 190, .4);
+  color: #fff;
+}
+.sewingicons ul {
+  list-style-type: none;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sewingicons li {
+  display: inline;
+  padding: 0 15px 0 15px;
+}
+
+
+figcaption {
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+
+/* SEWING ICONS */
+.sewingicons li {
+  display: inline-block;
+}
+
+.sewingicons img {
+  padding: 10px;
+  margin: 0 55px 20px 55px;
+}
+
+#machine {
+  margin-bottom: 30px;
+}
+
+/* STREAM */
+
+.stream {
+  width: 100%;
+}
+
+/* CHOOSE A COLOR */
+
+.colorchoices {
+  margin-left: 40px;
+}
+
+.colorchoices h2 {
+  text-align: left;
+}
+
+.colorchoices p {
+  margin-top: 20px;
+}
+.colorchoices button {
+  display: inline-block;
+  width: 150px;
+  margin: 10px;
+}
+
+.colorAbutton,
+.colorBbutton,
+.colorCbutton,
+.colorDbutton {
+  padding: 10px 5px 150px 5px;
+  font-size: 1.2em;
+  outline: 2px solid #699;
+}
+.colorAbutton {
+  border: 20px solid #fff;
+  background-color: #fff;
+}
+
+.colorBbutton {
+  border: 20px solid #e5e5e5;
+  background-color: #e5e5e5;
+}
+
+.colorCbutton {
+  border: 20px solid #c9c9c9;
+  background-color: #c9c9c9;
+}
+
+.colorDbutton {
+  border: 20px solid #b3b3b3;
+  background-color: #b3b3b3;
+}
+
+/* QUILT BLOCK THAT CHANGES */
+
+#quiltblock {
+  width: 450px;
+  height: 450px;
+  border: 1px solid #000;
+  margin: 0 auto;
+  margin-top: 120px;
+}
+
+#quiltblock img {
+  align: center;
+}
+
+.reset {
+  padding: 20px;
+  margin: 0 auto;
+}
+
+/* NOT USING YET */
+
+#examples figure {
+  display: inline-block;
+}
+#examples h2 {
+  padding-top: 5%;
+  font-size: 2em;
+}
+
+footer {
+  width: 70%;
+  background: #000;
+  color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  min-height: 10%;
+  float: left;
+}

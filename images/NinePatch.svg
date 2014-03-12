@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="450px" height="450px" viewBox="0 0 450 450" enable-background="new 0 0 450 450" xml:space="preserve">
+<g>
+	<rect x="0" y="0" fill="#fff" stroke="#000000" stroke-miterlimit="10" width="450" height="450"/>
+	<!-- text not showing -->
+	<text x="0" y="0" fill="#000" font-family="Verdana, sans-serif">Click on right.</text>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M0,375"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="0" y1="300" x2="450" y2="300"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M450,225"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="0" y1="150" x2="450" y2="150"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M450,75"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M375,450"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="300" y1="0" x2="300" y2="450"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M225,450"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="150" y1="0" x2="150" y2="450"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M75,450"/>
+</g>
+<!--
+<g>
+<rect x="160" y="160" fill="#fff" stroke="#fff" stroke-miterlimit="10" width="130" height="130"></rect>
+<text x="160" y="160" fill="#000" font-family="Verdana, sans-serif">Click a quilt block from the right to start choosing colors.</text>
+</g>
+-->
+</svg>

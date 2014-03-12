@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="450px" height="450px" viewBox="0 0 450 450" enable-background="new 0 0 450 450" xml:space="preserve">
+<g>
+	<rect fill="none" stroke="#000000" stroke-miterlimit="10" width="450" height="450"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M0,375"/>
+	
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M450,225"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="0" y1="150" x2="450" y2="150"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M450,75"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M375,450"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="300" y1="0" x2="300" y2="450"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M225,450"/>
+	<line fill="none" stroke="#000000" stroke-miterlimit="10" x1="150" y1="0" x2="150" y2="450"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M75,450"/>
+</g>
+<!-- block a -->
+<polygon fill="#fff" stroke="#000000" stroke-miterlimit="10" points="0,0 0,150 150,150 "/>
+<polygon fill="#E5E5e5" stroke="#000000" stroke-miterlimit="10" points="0,0 150,0 150,150 "/>
+<!-- block b -->
+<polygon fill="#E5E5e5" stroke="#000000" stroke-miterlimit="10" points="150,0 150,150 300,150 "/>
+<polygon fill="#fff" stroke="#000000" stroke-miterlimit="10" points="150,0 300,0 300,150 "/>
+<!-- block c -->
+<polygon fill="#fff" stroke="#000000" stroke-miterlimit="10" points="300,0 450,0 300,150 "/>
+<polygon fill="#c9c9c9" stroke="#000000" stroke-miterlimit="10" points="450,0 300, 150 450,150 "/>
+<!-- block d -->
+<polygon fill="#fff" stroke="#000000" stroke-miterlimit="10" points="0,300 0,150 150,150 "/>
+<polygon fill="#c9c9c9" stroke="#000000" stroke-miterlimit="10" points="0,300 150,300 150,150 "/>
+<!-- block e -->
+<rect x="150" y="150" fill="#949494" stroke="#000000" stroke-miterlimit="10" width="150" height="150"/>
+<!-- block f -->
+<polygon fill="#c9c9c9" stroke="#000000" stroke-miterlimit="10" points="300,150 450,150 300,300 "/>
+<polygon fill="#fff" stroke="#000000" stroke-miterlimit="10" points="450,150 450,300 300,300 "/>
+<!-- block g -->
+<polygon fill="#c9c9c9" stroke="#000000" stroke-miterlimit="10" points="150,300 0,300 0,450 "/>
+<polygon fill="#fff" stroke="#000000" stroke-miterlimit="10" points="150,300 150,450 0,450 "/>
+<!-- block h -->
+<polygon fill="#fff" stroke="#000000" stroke-miterlimit="10" points="150,300 150,450 300,450 "/>
+<polygon fill="#E5E5e5" stroke="#000000" stroke-miterlimit="10" points="150,300 300,300 300,450 "/>
+<!-- block i -->
+
+
+<polygon fill="#fff" stroke="#000000" stroke-miterlimit="10" points="300,300 450,300 450,450 "/>
+<polygon fill="#E5E5e5" stroke="#000000" stroke-miterlimit="10" points="300,300 300,450 450,450 "/>
+
+</svg>
